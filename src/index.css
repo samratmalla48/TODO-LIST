@@ -1,13 +1,14 @@
 body {
   margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: grid;
+  justify-content: left;
+  align-items: left;
 }
 
 
 html{
   font-size: 62.5%;
+  background-size:100%
 }
 
 code {
